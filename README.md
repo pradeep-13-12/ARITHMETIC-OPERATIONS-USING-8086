@@ -57,21 +57,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|     1200:12 24:1204     |                          |
-      1201:34                    68:1205
-      1202:12                    00:1206
-      1203:34                    c4:1207
-
+|       2000:34           |    2000:55            |     
+|         2001:12          |    2005:55            |   
+|        2002:21            |   2006:00            |
+|        2003:43            |                      |
 #### Manual Calculations
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/fbe086f6-9e5d-4d63-9716-a0d0d44f483e" />
 
-![WhatsApp Image 2025-09-22 at 08 32 38_9d6d7ce1](https://github.com/user-attachments/assets/533802a2-3ce7-4046-aaf1-784b7ade2074)
 
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-![WhatsApp Image 2025-09-22 at 08 19 02_e089825c](https://github.com/user-attachments/assets/7e0fbba4-6100-43c6-a5c6-9e3785b33e0d)
-![WhatsApp Image 2025-09-22 at 08 23 05_a5bf5449](https://github.com/user-attachments/assets/d68f6dc4-b2e2-483a-946d-8ab14abed43e)
+
+<img width="662" height="433" alt="image" src="https://github.com/user-attachments/assets/ba3bd7a5-f3e7-4330-abaa-ff91b50ff4b0" />
 
 ## 2. SUBTRACTION
 
@@ -114,23 +113,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|     1200:12 24:1204     |                          |
-      1201:34                    68:1205
-      1202:12                    00:1206
-      1203:34                    c4:1207
-
+|     2000:45             |      2000:04             |
+|     2001:A4             |      2005:72              |
+|     2002:41             |      2006:00             |
+|     2003:32             |                          |
 #### Manual Calculations
 
-
-![WhatsApp Image 2025-09-22 at 08 36 44_69bbc167](https://github.com/user-attachments/assets/8a931e16-5e11-443c-ba1a-5a51baffe43c)
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/7bde9edb-0985-469d-8886-ea6aa2510199" />
 
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![WhatsApp Image 2025-09-22 at 08 23 05_971dc4fa](https://github.com/user-attachments/assets/7cb4f130-e091-4de7-8d65-1ee006d23cbb)
-<img width="645" height="445" alt="Screenshot 2025-08-18 113509" src="https://github.com/user-attachments/assets/0e1f9828-648b-40b4-ab29-dee3cf1610e9" />
+<img width="635" height="426" alt="image" src="https://github.com/user-attachments/assets/f931bca1-2fdf-4e4a-9ad1-8196a1724cb2" />
+
 
 ## 3. MULTIPLICATION
 
@@ -170,20 +167,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|     1200:12 24:1204     |                          |
-      1201:34                    68:1205
-      1202:12                    00:1206
-      1203:34                    c4:1207
-
+|   2000:22               |	2000:A8
+|2001:21	|2005:CC  |
+|2002:14|	2006:57|
+|2003:21|	2007:02|
 #### Manual Calculations
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/41ccc3a9-b452-4d83-93c5-8c957f85cac2" />
 
-![WhatsApp Image 2025-09-22 at 08 43 11_36f250bf](https://github.com/user-attachments/assets/015ead3a-a5be-4c66-9eb8-6925141b7047)
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![WhatsApp Image 2025-09-22 at 08 23 05_1c5e6c5a](https://github.com/user-attachments/assets/eb7a550f-930a-4533-8792-e846670701a1)
-<img width="638" height="445" alt="Screenshot 2025-08-18 112949" src="https://github.com/user-attachments/assets/ed9bf19e-01c4-46c2-a209-cab3cb9cfc5a" />
+<img width="627" height="444" alt="image" src="https://github.com/user-attachments/assets/511eb043-b1a6-4cba-9053-50aeb8b2aa08" />
 
 ## 4. DIVISION
 
@@ -220,22 +216,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|     2000:34	2000:55
-2001:12	2005:55
-2002:21	2006:00
-2003:43	
+|2000:33|	2000:03|
+|2001:33|	2005:00|
+|2002:11|	2006:00|
+|2003:11|	2007:00|
 #### Manual Calculations
 
 
-![WhatsApp Image 2025-09-22 at 08 47 03_148ecfc2](https://github.com/user-attachments/assets/da5818fb-0439-4502-8e93-9ea418fdb18f)
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/619009b3-82b2-4a6c-b052-88c83dcec8b0" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="645" height="430" alt="image" src="https://github.com/user-attachments/assets/0ff90788-99b5-4f00-befe-d0c6ad5bf018" />
 
-![WhatsApp Image 2025-09-22 at 08 23 05_0894f270](https://github.com/user-attachments/assets/1d80e010-3ff8-44f3-8e5b-83086699d311)
 
-
-<img width="638" height="434" alt="Screenshot 2025-08-18 112739" src="https://github.com/user-attachments/assets/a4ca021e-195f-4b28-ba51-5551fe3ee7a7" />
 
 
 ## RESULT
